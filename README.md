@@ -16,3 +16,7 @@ Multi-Stage Docker Builds (No cargo-chef)
 
 # Resources
 [rust-lang.org learning resources](https://www.rust-lang.org/learn) 
+
+[Cookin' with Rust](https://rust-lang-nursery.github.io/rust-cookbook/)
+
+[Rust Cheat Sheet](https://cheats.rs/)
