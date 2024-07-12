@@ -32,3 +32,4 @@ Multi-Stage Docker Builds (No cargo-chef)
 
 [Jeremy Chone](https://www.youtube.com/@JeremyChone)
 
+[Let's Get Rusty](https://www.youtube.com/@letsgetrusty)
