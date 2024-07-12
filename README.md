@@ -26,3 +26,9 @@ Multi-Stage Docker Builds (No cargo-chef)
 [Smart Pointers in Rust: A Comprehensive Guide](https://gencmurat.com/en/posts/smart-pointers-in-rust/)
 
 [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+
+# Rust YouTube Channels
+[Jon Gjengset](https://www.youtube.com/@jonhoo)
+
+[Jeremy Chone](https://www.youtube.com/@JeremyChone)
+
