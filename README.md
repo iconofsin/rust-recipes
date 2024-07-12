@@ -9,8 +9,10 @@ Multi-Stage Docker Builds (No cargo-chef)
 
 
 # Resources
-[The Rust Reference](https://doc.rust-lang.org/reference/)
+[rust-lang.org learning resources](https://www.rust-lang.org/learn)
 
-[The Rust Book](https://doc.rust-lang.org/book/)
+* [The Rust Reference](https://doc.rust-lang.org/reference/)
 
-[Rust By Example](https://doc.rust-lang.org/rust-by-example/)
+* [The Rust Book](https://doc.rust-lang.org/book/)
+
+* [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
