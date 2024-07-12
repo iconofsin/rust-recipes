@@ -22,3 +22,7 @@ Multi-Stage Docker Builds (No cargo-chef)
 [Rust Cheat Sheet](https://cheats.rs/)
 
 [Type Based Cheat Sheet](https://upsuper.github.io/rust-cheatsheet/)
+
+[Smart Pointers in Rust: A Comprehensive Guide](https://gencmurat.com/en/posts/smart-pointers-in-rust/)
+
+[Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
