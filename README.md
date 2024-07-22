@@ -29,6 +29,8 @@ Multi-Stage Docker Builds (No cargo-chef)
 
 [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 
+[High Assurance Rust](https://highassurance.rs)
+
 # Rust YouTube Channels
 [Jon Gjengset](https://www.youtube.com/@jonhoo)
 
